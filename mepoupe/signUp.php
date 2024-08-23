@@ -67,7 +67,7 @@ if(isset($_POST['signup'])){
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Money Manager Sign Up</title>
+    <title>Me Poupe Cadastro</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
